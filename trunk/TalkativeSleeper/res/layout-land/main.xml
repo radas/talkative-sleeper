@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="left"
+    >
+    <ImageView android:id="@+id/mainMenuImage"
+    	android:src="@drawable/sleeper"  
+    	android:layout_width="match_parent" 
+    	android:layout_height="match_parent"
+    	android:layout_marginTop="5dp"
+    	android:contentDescription="@string/app_name"/>
+
+    <RelativeLayout
+        android:id="@+id/buttons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="19dp"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="5dp"
+            android:clickable="true"
+            android:src="@drawable/startselector"
+            android:contentDescription="@string/app_name"/>
+        
+        <ImageButton
+            android:id="@+id/btnExit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="5dp"
+            android:clickable="true"
+            android:src="@drawable/exitselector"
+            android:contentDescription="@string/app_name" />
+    </RelativeLayout>
+
+   </RelativeLayout>

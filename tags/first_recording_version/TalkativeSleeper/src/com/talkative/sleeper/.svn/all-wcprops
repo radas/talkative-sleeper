@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/13/tags/first_recording_version/TalkativeSleeper/src/com/talkative/sleeper
+END
+MainMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/13/tags/first_recording_version/TalkativeSleeper/src/com/talkative/sleeper/MainMenu.java
+END
+Preferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/13/tags/first_recording_version/TalkativeSleeper/src/com/talkative/sleeper/Preferences.java
+END
+TalkativeSleeperActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/13/tags/first_recording_version/TalkativeSleeper/src/com/talkative/sleeper/TalkativeSleeperActivity.java
+END
+TalkativeSleeperStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/13/tags/first_recording_version/TalkativeSleeper/src/com/talkative/sleeper/TalkativeSleeperStart.java
+END
+VoiceRecording.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/13/tags/first_recording_version/TalkativeSleeper/src/com/talkative/sleeper/VoiceRecording.java
+END
+VoiceDetection.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/13/tags/first_recording_version/TalkativeSleeper/src/com/talkative/sleeper/VoiceDetection.java
+END
+HelpActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/13/tags/first_recording_version/TalkativeSleeper/src/com/talkative/sleeper/HelpActivity.java
+END
+Engine.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/13/tags/first_recording_version/TalkativeSleeper/src/com/talkative/sleeper/Engine.java
+END

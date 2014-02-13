@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory 
+        android:title="@string/preferences">
+        <ListPreference 
+            android:key="detection_sensitivity"
+            android:title="Detection Sensitivity"
+            android:summary="Define how sensible is detection"
+            android:defaultValue="1" 
+            android:entries="@array/detection_sensitivity_entries"
+            android:entryValues="@array/detection_sensitivity_entries_values"
+        />    
+    </PreferenceCategory>
+</PreferenceScreen>

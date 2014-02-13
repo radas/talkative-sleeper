@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="detection_sensitivity_entries">
+        <item name="1">The most sensitive</item>
+        <item name="2">More sensitive</item>
+        <item name="3">Normal sensitive</item>
+        <item name="4">Little sensitive</item>
+        <item name="5">The least sensitive</item>
+    </string-array>
+    
+    <string-array name="detection_sensitivity_entries_values">
+        <item name="1">0.5</item>
+        <item name="2">1</item>
+        <item name="3">1.5</item>
+        <item name="4">2</item>
+        <item name="5">2.5</item>
+    </string-array>
+
+</resources>

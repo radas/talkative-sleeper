@@ -1,0 +1,64 @@
+10
+
+dir
+40
+http://talkative-sleeper.googlecode.com/svn/trunk/TalkativeSleeper/res
+http://talkative-sleeper.googlecode.com/svn
+
+
+
+2012-05-15T09:34:24.175282Z
+37
+radek.kavan@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e8197574-7bc8-af42-5de9-71ab05919394
+
+xml
+dir
+
+drawable
+dir
+
+layout-small
+dir
+
+drawable-hdpi
+dir
+
+anim
+dir
+
+menu
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout-land
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values
+dir
+

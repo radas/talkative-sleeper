@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Talkative Sleeper</string>
+    <string name="credits">"Application by: radek.kavan@gm..l.com"</string>
+    <string name="startStop">"Stop"</string>
+    <string name="settings">Settings</string>
+    <string name="menu">Menu</string>
+    <string name="exit">Exit</string>
+    <string name="help">Help</string>
+    <string name="help_title">Talkative Sleeper Help</string>
+    <string name="help_text">
+    \n
+    \n<big><b>Talkative Sleeper</b> - Talkative Sleeper recording</big>\n
+    \n
+    Talkative Sleepe allows to record talkative sleeper in the night.\n
+    \n
+    Use <i>\"Menu\"</i> from the menu to close running app and return to main menu. Use the <i>\"Settings\"</i> menu option to switch to settings menu\n
+    \n
+    Enjoy!\n
+    </string>
+</resources>

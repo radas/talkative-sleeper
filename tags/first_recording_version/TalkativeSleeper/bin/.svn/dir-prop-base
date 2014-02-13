@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 49
+resources.ap_
+
+classes.dex
+
+TalkativeSleeper.apk
+
+END
